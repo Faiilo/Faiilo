@@ -3,7 +3,7 @@
 <h3 align="center">Information Systems student, IT beginner from Russia 🇷🇺</h3>
 <h4 align="left"> - 📫 How to reach me: compafacts@gmail.com</h4>
 <h5 align="left"> - 🌱 I’m currently learning Java, HTML</h5>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **Faiilo/Faiilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
