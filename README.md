@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Information Systems student, IT beginner from Russia 🇷🇺</h3>
+- 📫 How to reach me: compafacts@gmail.com
+- 🌱 I’m currently learning Java, HTML
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Faiilo/Faiilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
