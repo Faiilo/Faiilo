@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Information Systems student, IT beginner from Russia 🇷🇺</h3>
 <h4 align="left"> - 📫 How to reach me: compafacts@gmail.com</h4>
-<h4 align="left"> - 🌱 I’m currently learning Java, HTML</h5>
+<h4 align="left"> - 🌱 I’m currently learning Java, HTML</h4>
 
 
 <!--
